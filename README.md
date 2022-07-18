@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/b53k/Wasserstein-GAN--PyTorch) <br>
 ![PyTorch](https://img.shields.io/badge/framework-PyTorch-red)
 
-An alternative to traditional GAN training, Wasserstein GAN (WGAN) has been showed to improve the stability of learning and get rid of issues like mode collapse. This projects aims to implement WGAN from scratch using PyTorch Framework.
+An alternative to traditional GAN training, Wasserstein GAN (WGAN) has been showed to improve the stability of learning and get rid of issues like mode collapse. Read more on [this](https://arxiv.org/abs/1701.07875?context=cs) paper. This projects aims to implement WGAN from scratch using PyTorch Framework.
 
 ## Prerequisites
 
